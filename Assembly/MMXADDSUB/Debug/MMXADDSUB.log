@@ -1,0 +1,13 @@
+﻿Build started 27/10/2014 12:30:23.
+     1>Project "C:\Users\Tom\Desktop\CodingStuff\Assembly\MMXADDSUB\MMXADDSUB.vcxproj" on node 2 (Build target(s)).
+     1>_MASM:
+         Assembling mmx.asm...
+         cmd.exe /C "C:\Users\Tom\AppData\Local\Temp\tmp9e2417551e6046c2bcce211e88e8614e.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\mmx.obj" /W3 /errorReport:prompt  /Tammx.asm
+     1>mmx.asm(1): error A2088: END directive required at end of file
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\BuildCustomizations\masm.targets(50,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\mmx.obj" /W3 /errorReport:prompt  /Tammx.asm" exited with code 1.
+     1>Done Building Project "C:\Users\Tom\Desktop\CodingStuff\Assembly\MMXADDSUB\MMXADDSUB.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.62
